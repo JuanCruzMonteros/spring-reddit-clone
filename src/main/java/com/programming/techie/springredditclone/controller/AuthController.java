@@ -1,5 +1,6 @@
 package com.programming.techie.springredditclone.controller;
 
+import com.programming.techie.springredditclone.config.AppConfig;
 import com.programming.techie.springredditclone.dto.AuthenticationResponse;
 import com.programming.techie.springredditclone.dto.LoginRequest;
 import com.programming.techie.springredditclone.dto.RefreshTokenRequest;
